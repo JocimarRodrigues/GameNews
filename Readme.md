@@ -32,7 +32,6 @@ https://user-images.githubusercontent.com/116130103/206884413-5dd05ad1-fca5-493e
 - JavaSscript
 - CSS
 - React
-- Firebase
 - Node
 
 ``` Após baixar o projeto, utilize o comando npm install ```
