@@ -1,0 +1,51 @@
+.post_detail {
+    margin-bottom: 2em;
+    display: flex;
+    flex-direction: column;
+}
+
+.post_detail img {   
+    max-width: 100%;
+    margin-top: .6em;
+}
+
+.post_detail h2 {
+    margin-bottom: .4em;
+    color: rgb(5, 5, 5);
+}
+
+.post_detail .tags {
+    margin-bottom: 1.2em;
+    display: flex;
+    
+        
+}
+
+.tags p {
+    margin-right: .5em;
+    color: rgb(0, 0, 0);
+   
+    
+}
+
+.tags span {
+    font-weight: bold;
+    color: blueviolet;
+      
+}
+
+.tags {
+    display: flex;
+    flex-direction: column;
+    margin-right: auto;
+    align-items: flex-start;
+    
+    
+}
+
+.createdby {
+    font-style: italic bold;
+    color: hsl(4, 94%, 52%);
+    font-size: 0.8em;
+    margin-bottom: 1em;
+}

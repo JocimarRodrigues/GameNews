@@ -1,0 +1,17 @@
+.login {
+    text-align: center;
+    color: white;
+    
+}
+
+.login h1 {
+    color: white;
+}
+
+.login p {
+    color: #AAA;
+}
+
+.login input {
+    color: white;
+}
